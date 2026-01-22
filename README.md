@@ -16,6 +16,14 @@ Heute konnte ich meine umgebung für das Modul 223 endgültig einrichten und auc
 
 ## 16.01.2026
 
-- [ ] Heute möchte ich an meinem Weather-Dashboard weiterarbeiten.
-- [ ] Heute möchte ich am Modul 241 arbeiten weil ich noch was aufzuholen habe.
+- [X] Heute möchte ich an meinem Weather-Dashboard weiterarbeiten.
+- [X] Heute möchte ich am Modul 241 arbeiten weil ich noch was aufzuholen habe.
 - [ ] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
+
+Heute konnte ich Aufträge im Modul 241 machen und vorarbeiten damit ich am Montag nicht mehr so viel machen muss. Dazu konnte ich an meinem Weatherdashboard weiter arbeiten und ich konnte das CSS file ein bisschen ändern. Dazu konnte ich die Informationen zum Niederschlag einfügen.
+
+## 23.01.2026
+
+- [ ] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
+- [ ] Heute möchte ich am HZ3 im Modul 241 arbeiten.
+- [ ] Heute möchte mich einem Tragbarkeitsrechner anfangen.
