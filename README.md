@@ -24,6 +24,14 @@ Heute konnte ich Aufträge im Modul 241 machen und vorarbeiten damit ich am Mont
 
 ## 23.01.2026
 
-- [ ] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
-- [ ] Heute möchte ich am HZ3 im Modul 241 arbeiten.
+- [X] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
+- [X] Heute möchte ich am HZ3 im Modul 241 arbeiten.
 - [ ] Heute möchte mich einem Tragbarkeitsrechner anfangen.
+
+Ich konnte leider heute noch nicht mit dem Tragbarkeitsrechner beginnen. Jedoch konnte ich heute gut am Modul 241 arbeiten und das HZ3 fast schon abschliessen. Ebenfalls konnte ich am Modul 223 ein bisschen arbeiten wobei ich nicht so weit gekommen bin. Ich werde probieren das nächste mal mit dem Tragbarkeitsrechner zu beginnen.
+
+## 30.01.2026
+
+- [ ] Heute möchte ich am HZ4 im Modul 241 arbeiten
+- [ ] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
+- [ ] Heute möchte ich mit dem Tragbarkeitsrechner beginnen
