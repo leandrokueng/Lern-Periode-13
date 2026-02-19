@@ -32,6 +32,9 @@ Ich konnte leider heute noch nicht mit dem Tragbarkeitsrechner beginnen. Jedoch 
 
 ## 30.01.2026
 
-- [ ] Heute möchte ich am HZ4 im Modul 241 arbeiten
+- [X] Heute möchte ich am HZ4 im Modul 241 arbeiten
 - [ ] Heute möchte ich an dem Modul 223 arbeiten weil ich noch Aufträge aufholen muss.
 - [ ] Heute möchte ich mit dem Tragbarkeitsrechner beginnen
+
+Ich konnte heute leider nru am HZ4 arbeiten weil die Aufträge Zeit gekostet haben. Dazu kommt das ich noch an meinem Wetter-Dashboard gearbeitet habe und die Zeit nicht mehr im Überblick gehabt habe. Ich konnte das HZ4 fertig machen und muss es jetzt nicht mehr nach den Ferien machen.
+
