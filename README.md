@@ -38,3 +38,6 @@ Ich konnte leider heute noch nicht mit dem Tragbarkeitsrechner beginnen. Jedoch 
 
 Ich konnte heute leider nru am HZ4 arbeiten weil die Aufträge Zeit gekostet haben. Dazu kommt das ich noch an meinem Wetter-Dashboard gearbeitet habe und die Zeit nicht mehr im Überblick gehabt habe. Ich konnte das HZ4 fertig machen und muss es jetzt nicht mehr nach den Ferien machen.
 
+## Reflexion
+
+Alles in allem konnte ich in dieser Lern-Periode gut performen. Ich konnte ein neues Projekt aufbauen und es ist gut zum weiterentwickeln. Ich habe ein gutes webbasiertes Grundprojekt aufbauen und dabei habe ich viele Optionen zum ausbauen. Ich kann ein Backend dazu bauen und das wird ein Ziel der nächsten Lern-Periode sein. Ich konnte in dieser Lern-Periode auch viel für die Module arbeiten und auch Modul HZ fertigstellen. 
